@@ -1,0 +1,257 @@
+[
+  {
+    "CurrencyCode": "AED",
+    "CurrencyName": "United Arab Emirates Dirham",
+    "CurrencyCnName": "阿拉伯聯合大公國迪拉姆"
+  },
+  {
+    "CurrencyCode": "ARS",
+    "CurrencyName": "Argentine Peso",
+    "CurrencyCnName": "阿根廷披索"
+  },
+  {
+    "CurrencyCode": "AUD",
+    "CurrencyName": "Australian Dollar",
+    "CurrencyCnName": "澳幣"
+  },
+  {
+    "CurrencyCode": "BGN",
+    "CurrencyName": "Bulgarian Lev",
+    "CurrencyCnName": "保加利亞列弗"
+  },
+  {
+    "CurrencyCode": "BND",
+    "CurrencyName": "Brunei Dollar",
+    "CurrencyCnName": "汶萊元"
+  },
+  {
+    "CurrencyCode": "BOB",
+    "CurrencyName": "Bolivian Boliviano",
+    "CurrencyCnName": "玻利維亞幣"
+  },
+  {
+    "CurrencyCode": "BRL",
+    "CurrencyName": "Brazilian Real",
+    "CurrencyCnName": "巴西雷亞爾"
+  },
+  {
+    "CurrencyCode": "CAD",
+    "CurrencyName": "Canadian Dollar",
+    "CurrencyCnName": "加幣"
+  },
+  {
+    "CurrencyCode": "CHF",
+    "CurrencyName": "Swiss Franc",
+    "CurrencyCnName": "瑞士法郎"
+  },
+  {
+    "CurrencyCode": "CLP",
+    "CurrencyName": "Chilean Peso",
+    "CurrencyCnName": "智利披索"
+  },
+  {
+    "CurrencyCode": "CNY",
+    "CurrencyName": "Chinese Yuan Renminbi",
+    "CurrencyCnName": "中國人民幣"
+  },
+  {
+    "CurrencyCode": "COP",
+    "CurrencyName": "Colombian Peso",
+    "CurrencyCnName": "哥倫比亞披索"
+  },
+  {
+    "CurrencyCode": "CZK",
+    "CurrencyName": "Czech Republic Koruna",
+    "CurrencyCnName": "捷克克郎"
+  },
+  {
+    "CurrencyCode": "DKK",
+    "CurrencyName": "Danish Krone",
+    "CurrencyCnName": "丹麥克朗"
+  },
+  {
+    "CurrencyCode": "EGP",
+    "CurrencyName": "Egyptian Pound",
+    "CurrencyCnName": "埃及鎊"
+  },
+  {
+    "CurrencyCode": "EUR",
+    "CurrencyName": "Euro",
+    "CurrencyCnName": "歐元"
+  },
+  {
+    "CurrencyCode": "FJD",
+    "CurrencyName": "Fijian Dollar",
+    "CurrencyCnName": "斐濟元"
+  },
+  {
+    "CurrencyCode": "GBP",
+    "CurrencyName": "British Pound Sterling",
+    "CurrencyCnName": "英鎊"
+  },
+  {
+    "CurrencyCode": "HKD",
+    "CurrencyName": "Hong Kong Dollar",
+    "CurrencyCnName": "港幣"
+  },
+  {
+    "CurrencyCode": "HRK",
+    "CurrencyName": "Croatian Kuna",
+    "CurrencyCnName": "克羅埃西亞克朗"
+  },
+  {
+    "CurrencyCode": "HUF",
+    "CurrencyName": "Hungarian Forint",
+    "CurrencyCnName": "匈牙利福林"
+  },
+  {
+    "CurrencyCode": "IDR",
+    "CurrencyName": "Indonesian Rupiah",
+    "CurrencyCnName": "印尼盧比"
+  },
+  {
+    "CurrencyCode": "ILS",
+    "CurrencyName": "Israeli New Sheqel",
+    "CurrencyCnName": "以色列新舍克"
+  },
+  {
+    "CurrencyCode": "INR",
+    "CurrencyName": "Indian Rupee",
+    "CurrencyCnName": "印度盧比"
+  },
+  {
+    "CurrencyCode": "JPY",
+    "CurrencyName": "Japanese Yen",
+    "CurrencyCnName": "日圓"
+  },
+  {
+    "CurrencyCode": "KES",
+    "CurrencyName": "Kenyan Shilling",
+    "CurrencyCnName": "肯亞先令"
+  },
+  {
+    "CurrencyCode": "KRW",
+    "CurrencyName": "South Korean Won",
+    "CurrencyCnName": "韓元"
+  },
+  {
+    "CurrencyCode": "LTL",
+    "CurrencyName": "Lithuanian Litas",
+    "CurrencyCnName": "立陶宛利塔斯"
+  },
+  {
+    "CurrencyCode": "MAD",
+    "CurrencyName": "Moroccan Dirham",
+    "CurrencyCnName": "摩洛哥迪拉姆"
+  },
+  {
+    "CurrencyCode": "MXN",
+    "CurrencyName": "Mexican Peso",
+    "CurrencyCnName": "墨西哥披索"
+  },
+  {
+    "CurrencyCode": "MYR",
+    "CurrencyName": "Malaysian Ringgit",
+    "CurrencyCnName": "馬來西亞林吉特"
+  },
+  {
+    "CurrencyCode": "NOK",
+    "CurrencyName": "Norwegian Krone",
+    "CurrencyCnName": "挪威克朗"
+  },
+  {
+    "CurrencyCode": "NZD",
+    "CurrencyName": "New Zealand Dollar",
+    "CurrencyCnName": "紐西蘭幣"
+  },
+  {
+    "CurrencyCode": "PEN",
+    "CurrencyName": "Peruvian Nuevo Sol",
+    "CurrencyCnName": "祕魯幣"
+  },
+  {
+    "CurrencyCode": "PHP",
+    "CurrencyName": "Philippine Peso",
+    "CurrencyCnName": "菲律賓披索"
+  },
+  {
+    "CurrencyCode": "PKR",
+    "CurrencyName": "Pakistani Rupee",
+    "CurrencyCnName": "巴基斯坦盧比"
+  },
+  {
+    "CurrencyCode": "PLN",
+    "CurrencyName": "Polish Zloty",
+    "CurrencyCnName": "波蘭茲羅提"
+  },
+  {
+    "CurrencyCode": "RON",
+    "CurrencyName": "Romanian Leu",
+    "CurrencyCnName": "羅馬尼亞列伊"
+  },
+  {
+    "CurrencyCode": "RSD",
+    "CurrencyName": "Serbian Dinar",
+    "CurrencyCnName": "塞爾維亞第納爾"
+  },
+  {
+    "CurrencyCode": "RUB",
+    "CurrencyName": "Russian Ruble",
+    "CurrencyCnName": "俄羅斯盧布"
+  },
+  {
+    "CurrencyCode": "SAR",
+    "CurrencyName": "Saudi Riyal",
+    "CurrencyCnName": "沙烏地阿拉伯里亞爾"
+  },
+  {
+    "CurrencyCode": "SEK",
+    "CurrencyName": "Swedish Krona",
+    "CurrencyCnName": "瑞典克朗"
+  },
+  {
+    "CurrencyCode": "SGD",
+    "CurrencyName": "Singapore Dollar",
+    "CurrencyCnName": "新加坡幣"
+  },
+  {
+    "CurrencyCode": "THB",
+    "CurrencyName": "Thai Baht",
+    "CurrencyCnName": "泰銖"
+  },
+  {
+    "CurrencyCode": "TRY",
+    "CurrencyName": "Turkish Lira",
+    "CurrencyCnName": "土耳其里拉"
+  },
+  {
+    "CurrencyCode": "TWD",
+    "CurrencyName": "New Taiwan Dollar",
+    "CurrencyCnName": "新臺幣"
+  },
+  {
+    "CurrencyCode": "UAH",
+    "CurrencyName": "Ukrainian Hryvnia",
+    "CurrencyCnName": "烏克蘭赫里納"
+  },
+  {
+    "CurrencyCode": "USD",
+    "CurrencyName": "US Dollar",
+    "CurrencyCnName": "美元"
+  },
+  {
+    "CurrencyCode": "VEF",
+    "CurrencyName": "Venezuelan Bol穩簫var Fuerte",
+    "CurrencyCnName": "委內瑞拉銀幣"
+  },
+  {
+    "CurrencyCode": "VND",
+    "CurrencyName": "Vietnamese Dong",
+    "CurrencyCnName": "越南盾"
+  },
+  {
+    "CurrencyCode": "ZAR",
+    "CurrencyName": "South African Ran",
+    "CurrencyCnName": "南非蘭特"
+  }
+]
